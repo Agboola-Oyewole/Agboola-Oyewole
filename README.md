@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Oyewole Agboola</h1>
-<h3 align="center">👨‍💻 As a dedicated follower of technology, I'm on a mission to craft world-class solutions that not only solve problems but also inspire. Proficient in Python, JavaScript, Bootstrap, CSS, HTML, Git, SQL, and Flask, I am continually expanding my skill set. Let's code a brighter future together! 🚀✨</h3>
+<h3 align="center">👨‍💻 As a dedicated follower of technology, I'm on a mission to craft world-class solutions that not only solve problems but also inspire. Proficient in Python, JavaScript, Bootstrap, CSS, HTML, Git, SQL, PostgreSQL, Flask, Firebase and Google Auth as well as mobile app development using Flutter and Dart. I am continually expanding my skill set. Let's code a brighter future together! 🚀✨</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=agboola-oyewole&label=Profile%20views&color=0e75b6&style=flat" alt="agboola-oyewole" /> </p>
