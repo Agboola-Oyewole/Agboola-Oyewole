@@ -1,14 +1,6 @@
 <h1 align="center">Hola 👋, I'm Agboola</h1>
 <h3 align="center">A young, curious 🤓 full-stack developer from Nigeria 🇳🇬, building cool stuff one bug at a time.</h3>
 
-- 🔭 I’m currently working on [TriviaRush](https://triviarush.netlify.app/)
-
-- 🌱 I’m currently learning **Flutter and Dart**
-
-- 👨‍💻 All of my projects are available at [Portfolio](https://agboola-oyewole.github.io/portfolio-3/)
-
-- 💬 Ask me about **Flutter and Nodejs.**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/agboolaoyewole" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/agboolaoyewole" height="30" width="40" /></a>
